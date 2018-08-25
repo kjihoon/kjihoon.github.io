@@ -8,7 +8,7 @@ title: About
 </p>
 
 <p>
-  hi my name is jihoon hihi
+  <span style="color:red">hi my name is jihoon hihi</span>
 </p>
 
 <p class="message">
